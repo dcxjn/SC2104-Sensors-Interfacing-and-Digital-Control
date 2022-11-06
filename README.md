@@ -1,4 +1,4 @@
-## SC2104 Sensors Interfacing and Digital Control
+## SC2104 Sensors, Interfacing and Digital Control
 ---
 #### NTU AY2022-23 SEMESTER 1
 ---
